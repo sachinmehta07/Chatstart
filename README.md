@@ -15,3 +15,8 @@ https://chat.openai.com/share/e8eb48e5-144a-4d85-a007-a6038c63d396
 
 //ArrayData Add
 https://chat.openai.com/share/7cdbcea1-8815-464a-b5b6-545e6e0e51eb
+
+
+
+//file 
+https://chat.openai.com/share/875266b1-2ed5-4348-8bde-1896b5c42a45
